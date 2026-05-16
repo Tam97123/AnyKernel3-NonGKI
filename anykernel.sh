@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=ExampleKernel by osm0sis @ xda-developers
+kernel.string=Kernel by 𝑻𝒂𝒎. If you want to have kernel be built, contact me: t.me/Id5523842976
 do.devicecheck=1
 do.modules=0
 do.systemless=1
